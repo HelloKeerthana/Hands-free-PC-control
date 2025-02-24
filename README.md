@@ -11,12 +11,12 @@ It allows users to control the mouse cursor and perform various actions such as 
 - Double click functionality
 - Gesture-based screenshot capture
 
-##feature Control
- -move mouse : just the index finger & no thumb
- -left click : thumb & middle fingers up + index finger down
- -right click : thumb & index fingers up + middle finger down
- -double click : thumb up, middle & index finger down
- -screenshot : all 3 fingers closed (as a rock)
+## feature Control
+- move mouse : just the index finger & no thumb
+- left click : thumb & middle fingers up + index finger down
+- right click : thumb & index fingers up + middle finger down
+- double click : thumb up, middle & index finger down
+- screenshot : all 3 fingers closed (as a rock)
 
 ## Requirements
 - Python < 3.10.0
